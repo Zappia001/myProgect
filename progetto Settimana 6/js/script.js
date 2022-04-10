@@ -1,6 +1,4 @@
-/*const mieImg = ["arrabbiato", "bello", "piangere", "ridere", "amare", "amare1", "spavento", "shock", "arrabbiato", "bello",
-    "piangere", "ridere", "amare", "amare1", "spavento", "shock"];*/
-// creo una variabile che mi contiene le immagini cliccate
+
 
 $(document).ready(function() {
     var app = {
